@@ -53,7 +53,7 @@
 
     
 
-    ![image-20230601133352245](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601133352245.png)
+    ![Tema5-Imagen1](imagenes/Tema5Imagen1.png)
 
   - **QUESTION 3, PÁGINA 83:**
 
@@ -73,11 +73,11 @@
 
     Hot Area:
 
-    ![image-20230601133608040](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601133608040.png)
+    ![Tema5-Imagen2](imagenes/Tema5Imagen2.png)
 
     Respuesta correcta:
 
-    ![image-20230601133642959](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601133642959.png)
+    ![Tema5-Imagen3](imagenes/Tema5Imagen3.png)
 
     **Explicación:** 
 
@@ -105,11 +105,11 @@
 
     Select and Place:
 
-    ![image-20230601133918681](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601133918681.png)
+    ![Tema5-Imagen4](imagenes/Tema5Imagen4.png)
 
     Respuesta correcta:
 
-    ![image-20230601133947271](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601133947271.png)
+    ![Tema5-Imagen5](imagenes/Tema5Imagen5.png)
 
     **Explicación:** 
 

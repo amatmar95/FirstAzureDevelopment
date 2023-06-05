@@ -25,11 +25,11 @@
 
     Select and Place:
 
-    ![image-20230601130221026](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601130221026.png)
+    ![Tema3-Imagen1](imagenes/Tema3Imagen1.png)
 
     Respuesta correcta:
 
-    ![image-20230601131104614](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601131104614.png)
+    ![Tema3-Imagen2](imagenes/Tema3Imagen2.png)
 
     **Explicación:** 
 
@@ -65,11 +65,11 @@
 
     Select and Place:
 
-    ![image-20230601131551286](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601131551286.png)
+    ![Tema3-Imagen3](imagenes/Tema3Imagen3.png)
 
     Respuesta correcta:
 
-    ![image-20230601131624587](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601131624587.png)
+    ![Tema3-Imagen4](imagenes/Tema3Imagen4.png)
 
     **Explicación:** 
 
@@ -107,11 +107,11 @@
 
     Select and Place:
 
-    ![image-20230601132534699](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601132534699.png)
+    ![Tema3-Imagen5](imagenes/Tema3Imagen5.png)
 
     Respuesta correcta:
 
-    ![image-20230601132605242](C:\Users\Jon Pinies\AppData\Roaming\Typora\typora-user-images\image-20230601132605242.png)
+    ![Tema3-Imagen6](imagenes/Tema3Imagen6.png)
 
     **Explicación:**
 
