@@ -80,15 +80,13 @@ The application must meet the following requirements:
 
   Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.
 
-
-
-<img src="C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230602002232635.png" alt="image-20230602002232635" style="zoom:67%;" />
+![image-20230605120449875](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605120449875.png)
 
 
 
 **SOLUCION:** 
 
-<img src="C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230602002328837.png" alt="image-20230602002328837" style="zoom:67%;" />
+![image-20230605120513194](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605120513194.png)
 
 
 

@@ -81,14 +81,16 @@
   You need to configure Azure CDN for the Shipping web site.
   Which configuration options should you use? To answer, select the appropriate options in the answer area:
 
-  <img src="C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230601131653712.png" alt="image-20230601131653712" style="zoom: 67%;" />
+  ![image-20230605115646505](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605115646505.png)
+
+  
 
   Las opciones correctas son:
-
+  
   - Tier --> **Standard**
   - Profile --> **Akamai**
   - Optimization --> **dynamic site acceleration**
-
+  
   **Explicacion**:
   
   Utiliza Azure Content Delivery Network (CDN) y asegura un rendimiento máximo para el contenido dinámico mientras se minimiza la latencia y los costos.
@@ -121,13 +123,15 @@ distribute the image and list the items in the correct order.
 In which order do the actions occur? To answer, move all actions from the list of actions to the answer area
 and arrange them in the correct order.
 
-<img src="C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230601133320633.png" alt="image-20230601133320633" style="zoom:67%;" />
+![image-20230605115754367](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605115754367.png)
 
 
 
 El orden correcto de las acciones es:
 
-<img src="C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230601133424986.png" alt="image-20230601133424986" style="zoom:67%;" />
+![image-20230605115823178](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605115823178.png)
+
+
 
 **Explicacion:**
 
@@ -165,11 +169,13 @@ Which options should you use? To answer, select the appropriate options in the a
 
 
 
-<img src="C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230601134243591.png" alt="image-20230601134243591" style="zoom:67%;" />
+![image-20230605120140306](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605120140306.png)
+
+
 
 Las opciones correctas son las siguientes:
 
-<img src="C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230601134322054.png" alt="image-20230601134322054" style="zoom:67%;" />
+![image-20230605120211997](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605120211997.png)
 
 
 
