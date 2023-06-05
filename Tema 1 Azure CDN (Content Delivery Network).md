@@ -81,7 +81,7 @@
   You need to configure Azure CDN for the Shipping web site.
   Which configuration options should you use? To answer, select the appropriate options in the answer area:
 
-  ![image-20230605115646505](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605115646505.png)
+  ![tema1-pregunta1](imagenes/tema1pregunta1.png)
 
   
 
@@ -123,13 +123,19 @@ distribute the image and list the items in the correct order.
 In which order do the actions occur? To answer, move all actions from the list of actions to the answer area
 and arrange them in the correct order.
 
-![image-20230605115754367](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605115754367.png)
+
+
+![tema1-pregunta6](imagenes/tema1pregunta6.png)
+
+
 
 
 
 El orden correcto de las acciones es:
 
-![image-20230605115823178](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605115823178.png)
+![tema1-pregunta6-respuesta](imagenes/tema1pregunta6-respuesta.png)
+
+
 
 
 
@@ -169,13 +175,17 @@ Which options should you use? To answer, select the appropriate options in the a
 
 
 
-![image-20230605120140306](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605120140306.png)
+![tema1-pregunta8](imagenes/tema1pregunta8.png)
 
 
 
 Las opciones correctas son las siguientes:
 
-![image-20230605120211997](C:\Users\Álvaro\AppData\Roaming\Typora\typora-user-images\image-20230605120211997.png)
+
+
+![tema1-pregunta8](imagenes/tema1pregunta8-respuesta.png)
+
+
 
 
 
