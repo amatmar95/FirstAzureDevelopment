@@ -82,7 +82,7 @@ The application must meet the following requirements:
 
 
 
-![tema 2 - pregunta 14](https://github.com/amatmar95/FirstAzureDevelopment/blob/7ab1586e223a075d5109c5e4f3e2fce98eddbc67/imagenes/tema%202-%20pregunta%2014.png)
+![tema2-pregunta14](imagenes/tema2pregunta14.png)
 
 
 
@@ -90,7 +90,7 @@ The application must meet the following requirements:
 
 **SOLUCION:** 
 
-![tema 2 - pregunta 14 - respuesta](https://github.com/amatmar95/FirstAzureDevelopment/blob/7ab1586e223a075d5109c5e4f3e2fce98eddbc67/imagenes/tema%202-%20pregunta%2014%20-%20respuesta.png)
+![tema 2 - pregunta 14 - respuesta](imagenes/tema2-pregunta14-respuesta.png)
 
 
 
