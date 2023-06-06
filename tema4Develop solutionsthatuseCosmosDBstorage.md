@@ -104,8 +104,7 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-change-feed
 
 Tienes una aplicación que utiliza Azure Blob storage. Necesitas actualizar los metadatos de los blobs. ¿Qué tres métodos deberías usar para desarrollar la solución? Para responder, mueve los métodos apropiados desde la lista de métodos hacia el área de respuesta y organízalos en el orden correcto.
 
-
-    ![Tema4pregunta14](imagenes/Tema4pregunta14.png)
+![Tema4pregunta14](imagenes/Tema4pregunta14.png)
 
  Explicación:
 
